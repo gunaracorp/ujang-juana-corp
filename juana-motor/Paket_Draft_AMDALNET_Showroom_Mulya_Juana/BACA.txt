@@ -1,0 +1,3 @@
+TEMPLATE KOSONG sesuai petunjuk Juknis AMDALNET versi 2.5 (Juli 2024). Geometry Polygon 2D; CRS EPSG:4326 WGS 84.
+Fields: id, PEMRAKARSA, KEGIATAN, TAHUN, PROVINSI, KETERANGAN, LAYER, LUAS. LUAS diisi luas polygon dalam hektare sesuai panduan (field calculator $area / 10000).
+Belum memiliki feature/polygon; wajib digambar dari batas persil yang sah sebelum upload.

@@ -1,0 +1,29 @@
+PAKET DRAFT AMDALNET - SHOWROOM MOTOR MULYA JUANA TASIKMALAYA
+Tanggal pembuatan: 25 November 2026
+
+DATA YANG DIGUNAKAN
+- Pemrakarsa: UJANG JUANA (nama dari KTP yang diunggah; NIK tidak disalin ke paket).
+- Nama rencana usaha: SHOWROOM MOTOR MULYA JUANA TASIKMALAYA.
+- Alamat sesuai keterangan pengguna: Ruko Perumahan Griya Mangkubumi Indah No. 1, Jl. A.H. Nasution, Kelurahan Cipari (perlu verifikasi), Kecamatan Mangkubumi, Kota Tasikmalaya, Jawa Barat 46181.
+- Koordinat titik referensi: -7.345583333, 108.184025000 (WGS 84).
+- Luas tanah 280 m2 dan luas bangunan 200 m2: berdasarkan keterangan pengguna, belum diverifikasi hasil ukur.
+
+PENTING - PKKPR/KKPR
+Tidak ada PKKPR/KKPR resmi yang teridentifikasi dalam berkas yang tersedia. ZIP bernama 03_KETERANGAN_TATA_RUANG_PKKPR.zip berisi surat keterangan yang disusun pemrakarsa untuk proyek lama MULYA KONVEKSI di titik/lokasi dan luas yang berbeda (luas 95 m2); dokumen itu bukan PKKPR yang diterbitkan OSS/ATR-BPN dan tidak boleh diunggah sebagai pengganti dokumen resmi. Untuk kolom AMDALNET yang meminta PKKPR/PKKPRL/analisis status fungsi kawasan hutan/IPPKH, unggah dokumen resmi yang benar-benar diterbitkan/berlaku bagi lokasi baru. Jangan membuat atau menyatakan dokumen pemerintah yang tidak ada.
+
+SURAT PERNYATAAN TAHAP PERENCANAAN
+Surat PDF/DOCX adalah draf yang perlu diperiksa dan ditandatangani oleh Ujang Juana apabila benar kegiatan operasional showroom yang dimohonkan belum dimulai. Jika kegiatan sebenarnya sudah berjalan, jangan gunakan pernyataan tersebut; isi harus disesuaikan dengan fakta dan arahan AMDALNET.
+
+PETA DAN SHP
+- Peta referensi PDF hanya menampilkan satu titik koordinat dan bukan peta tapak polygon.
+- ZIP SHP template contoh pengguna adalah shapefile kosong dengan struktur yang sama dengan template pengguna (PolygonZ, Web Mercator Auxiliary Sphere, OBJECTID_1/AREA, dan field lain).
+- ZIP SHP template Juknis v2.5 adalah shapefile kosong berdasarkan panduan AMDALNET (Polygon 2D, EPSG:4326, id/field wajib/LUAS).
+- Keduanya tidak berisi polygon karena satu titik dan luas total 280 m2 tidak menentukan bentuk, arah, ukuran sisi, maupun batas persil. Jangan unggah sebagai peta tapak final.
+
+DATA YANG DIPERLUKAN UNTUK FINALISASI POLYGON
+Sediakan salah satu: (1) peta bidang/surat ukur dari sertifikat/SHGB; (2) site plan perumahan dengan batas dan dimensi Ruko No. 1; atau (3) hasil ukur surveyor berisi koordinat setiap sudut (P1, P2, P3, ...). Pastikan juga kelurahan administratif dan alamat tapak cocok dengan PBB/sertifikat/SHGB.
+
+JUKNIS
+Panduan yang dibuka: JUKNIS Data Spasial AMDALNET Pemrakarsa Tapak Proyek, versi 2.5, Juli 2024. Panduan menggambarkan layer Polygon dengan CRS EPSG:4326 WGS 84, atribut id, PEMRAKARSA, KEGIATAN, TAHUN, PROVINSI, KETERANGAN, LAYER, dan field LUAS (hektare) yang dihitung dari polygon. ZIP contoh yang diunggah pengguna memiliki spesifikasi yang berbeda; dua template kosong disediakan agar perbedaan tidak tertukar.
+
+Sumber panduan resmi: https://amdalnet.kemenlh.go.id/JUKNIS-DATA-SPASIAL-AMDALNET-PEMRAKARSA-TAPAK-PROYEK.pdf
